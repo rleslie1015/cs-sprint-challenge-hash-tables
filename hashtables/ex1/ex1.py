@@ -34,7 +34,7 @@ def get_indices_of_item_weights(weights, length, limit):
     hashtable = {}
 
     for i in range(length):
-        key = weights[i]
+        # key = weights[i] # didn't need this
         weight2find = limit - weights[i]
 
         if weight2find in hashtable:
