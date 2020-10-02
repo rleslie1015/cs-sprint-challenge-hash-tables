@@ -1,9 +1,6 @@
 """
 Understand
-    Given an list of item weights, total number of items and a weight limit,
-     find the 2 items whos combined weight is the same as the limit
-   
-   example
+    G
     weights = [ 4, 6, 10, 15, 16 ], length = 5, limit = 21
                    |       |
                     \     /
